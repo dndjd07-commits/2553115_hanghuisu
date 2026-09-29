@@ -270,34 +270,6 @@ PrefabInstance:
       propertyPath: controlMode
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
-      propertyPath: flyFrames.Array.size
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
-      propertyPath: flyFrames.Array.data[9]
-      value: 
-      objectReference: {fileID: 21300000, guid: 6d2696b547b59ab4eb512d83aeb49e80, type: 3}
-    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
-      propertyPath: projectileFrames.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
-      propertyPath: attack2DashFrames.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
-      propertyPath: projectileFrames.Array.data[2]
-      value: 
-      objectReference: {fileID: 21300000, guid: 3d3a7d0252b7a5f4e864560970f4ace4, type: 3}
-    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
-      propertyPath: attack2DashFrames.Array.data[2]
-      value: 
-      objectReference: {fileID: 21300000, guid: ce90a94cc2f82434b99b213584f53fe1, type: 3}
-    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
-      propertyPath: attack2DashFrames.Array.data[3]
-      value: 
-      objectReference: {fileID: 21300000, guid: ce90a94cc2f82434b99b213584f53fe1, type: 3}
     - target: {fileID: 3467689297374237033, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
