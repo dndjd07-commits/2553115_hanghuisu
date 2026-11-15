@@ -292,7 +292,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 5.5555553, y: 5.5555553}
+    oldSize: {x: 5.882353, y: 5.882353}
     newSize: {x: 5.8333335, y: 5.8333335}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -426,7 +426,7 @@ MonoBehaviour:
     volume: 1
     pitchVariance: 0.05
   attack2Sfx:
-    clip: {fileID: 8300000, guid: 1380352a3e2d4ce4da50b9d9bafe2aab, type: 3}
+    clip: {fileID: 8300000, guid: 2ed6be84519769140a7b809f90de53d4, type: 3}
     volume: 1
     pitchVariance: 0.05
   hitSfx:
@@ -434,6 +434,6 @@ MonoBehaviour:
     volume: 1
     pitchVariance: 0.05
   deathSfx:
-    clip: {fileID: 8300000, guid: d89d168c979707443a9edd7109f977ee, type: 3}
+    clip: {fileID: 8300000, guid: 8d1d114374318644995b22b7a2e5de6a, type: 3}
     volume: 1
     pitchVariance: 0.05
